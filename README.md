@@ -1,7 +1,11 @@
 # Joystick USB HID pour Radio-Commande avec un RP2040
 
 Transformez votre radio-commande en joystick USB professionnel pour simulateurs de vol.
+## ✨ Installation rapide sur le RP2040
 
+1. Branchez votre RP2040 en préssant le bouton BOOT, votre RP2040 est reconnu comme un lecteur, une fenêtre de l'explorateur windows s'ouvre sur le lecteur.
+2. Copier le fichier joystickrp2040comments.ino.uf2 préalablement télécharger sur ce lecteur. Ca y est c'est fait!
+   
 ## ✨ Fonctionnalités
 
 - Support 8 canaux (4 axes + 4 boutons)
