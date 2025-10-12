@@ -25,7 +25,7 @@ Transformez votre radio-commande en joystick USB professionnel pour simulateurs 
 ## 📖 Commandes principales
 
 - `autocalib` - Calibration automatique 7 secondes
-- `values` - Affiche les valeurs actuelles
+- `values` - Affiche les valeurs actuelles!
 - `setmin/setmax` - Configuration manuelle
 - `reset` - Reset usine
 
@@ -38,3 +38,7 @@ Transformez votre radio-commande en joystick USB professionnel pour simulateurs 
 | 3     | 28     | Axe Z     |
 | 4     | 29     | Axe RX    |
 | 5-8   | 0-3    | Boutons   |
+
+[radio2](https://github.com/user-attachments/assets/670f0df3-53c0-4f92-bec5-6461d15596ce)
+![radio1](https://github.com/user-attachments/assets/c76bbd37-e7b6-40d5-86c3-595dc7672eff)
+
