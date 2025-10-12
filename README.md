@@ -1,4 +1,4 @@
-# Joystick USB HID pour Radio-Commande
+# Joystick USB HID pour Radio-Commande avec un RP2040
 
 Transformez votre radio-commande en joystick USB professionnel pour simulateurs de vol.
 
