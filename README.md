@@ -4,7 +4,7 @@ Transformez votre radio-commande en joystick USB professionnel pour simulateurs 
 ## ✨ Installation rapide sur le RP2040
 
 1. Branchez votre RP2040 en préssant le bouton BOOT, votre RP2040 est reconnu comme un lecteur, une fenêtre de l'explorateur windows s'ouvre sur le lecteur.
-2. Copier le fichier joystickrp2040comments.ino.uf2 préalablement télécharger sur ce lecteur. Ca y est c'est fait!
+2. Copier le fichier joystickrp2040comments.ino.uf2 préalablement téléchargé sur ce lecteur. Ca y est c'est fait!
    
 ## ✨ Fonctionnalités
 
